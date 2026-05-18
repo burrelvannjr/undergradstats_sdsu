@@ -6,6 +6,7 @@
 
 ## Course Information
 
+| | |
 |---|---|
 | **Instructor** | Burrel Vann Jr |
 | **Email** | bvannjr@sdsu.edu |
